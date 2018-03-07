@@ -31,3 +31,6 @@ function removeLastKitten() {
   return myArray
 }
 
+function removeFirstKitten() {
+  var myArray = 
+}
