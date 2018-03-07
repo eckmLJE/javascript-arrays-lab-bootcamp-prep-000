@@ -32,5 +32,5 @@ function removeLastKitten() {
 }
 
 function removeFirstKitten() {
-  var myArray = 
+  var myArray = kittens.shift;
 }
